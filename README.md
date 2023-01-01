@@ -31,3 +31,5 @@ There are many ways to traverse the graph, but among them, BFS is the most commo
     (waiting state)
     [END OF LOOP]
     Step 6: EXIT
+
+# Dijkstra
