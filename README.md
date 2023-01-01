@@ -2,7 +2,7 @@
 Algorithm of DFS, BFS and Dijkstra
 These algorithms help to walk om graphs and colloct required in formation about graphs.
 
-#DFS
+# DFS
 A standard DFS implementation puts each vertex of the graph into one of two categories:
 
     1.Visited
